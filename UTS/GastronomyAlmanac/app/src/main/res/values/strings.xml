@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GastronomyAlmanac</string>
+    <string name="food_name"><![CDATA[<Food Name>]]></string>
+    <string name="detail"><![CDATA[<Detail>]]></string>
+</resources>
