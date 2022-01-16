@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "701143070825",
+    "project_id": "kezariopro",
+    "storage_bucket": "kezariopro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701143070825:android:8970e1a97ac23afe87caf8",
+        "android_client_info": {
+          "package_name": "com.example.myfirebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "701143070825-ap3ek1bs540dosnlkh1dqgpnhl8sd7se.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr738mzmPirwmoNQyWhLFwnZlHMY31P_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "701143070825-ap3ek1bs540dosnlkh1dqgpnhl8sd7se.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
